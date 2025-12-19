@@ -1,0 +1,1 @@
+This project is a scalable URL shortening service implemented in Java that converts long URLs into compact, shareable short links and efficiently redirects users to the original URLs. The system is designed with constant-time lookups, clean object-oriented design, and scalability in mind.
